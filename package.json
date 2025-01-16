@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-library",
+  "version": "1.0.0",
+  "main": "src/index.j",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "echo \"Building project...\"",
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/nodejs-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.18.0"
+  }
+}
