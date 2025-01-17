@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-library-vinodpandey",
+  "name": "nodejs-library-vinodpandey-test",
   "version": "1.0.0",
-  "main": "src/index.j",
+  "main": "src/index.js",
   "scripts": {
     "prepare": "npm run build",
     "build": "echo \"Building project...\"",
